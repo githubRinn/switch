@@ -1,0 +1,10 @@
+# .gitignore
+
+Nintendo/
+roms/
+melonds/bios7.bin
+melonds/bios9.bin
+melonds/firmware.bin
+melonds/firmware.bin.bak
+melonds/romlist.bin
+
