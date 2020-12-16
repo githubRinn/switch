@@ -1,5 +1,7 @@
 01007EF00011E000: breath of the wild v1.6
-0100000000000352: emuiibo v0.5.1
-420000000000000E: sys-ftpd-light v1.0.3
+0100000000000352: emuiibo v0.6.1 [buggy]
+420000000000000E: sys-ftpd-light v1.0.4
 690000000000000D: sys-con v0.6.2
-4200000000000010: ldn-mitm v1.4.0
+4200000000000010: ldn-mitm v1.6.0 [bugged]
+00FF0000636C6BFF: sys-clk v1.0.0
+010000000000BD00: mission control v0.4.1 (originally 010000000000bd00)
