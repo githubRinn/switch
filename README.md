@@ -22,22 +22,22 @@ This includes the following packages:
     - [EdiZon](https://github.com/WerWolv/EdiZon): another save manager
     - [Goldleaf](https://github.com/XorTroll/Goldleaf): next-generation file manager
     - [NXThemes Installer](https://github.com/exelix11/SwitchThemeInjector): create and load custom themes for the Nintendo Switch
+    - [OpenRCT2](https://github.com/rsn8887/openrct2): roller coaster tycoon 2, for the Nintendo Switch
+    - [melonDS](https://github.com/RSDuck/melonDS): DS emulator, sorta
+        - [Upstream](https://github.com/Arisotura/melonDS)
+        - [Switch port](https://github.com/RSDuck/melonDS)
+    - [Retroarch](https://www.retroarch.com/)
+        - Stella: Atari 2600 core
+        - Prosystem: Atari 7800 core
+        - Nestopia: NES core
+        - SNES9x: SNES core
+        - Mupen64Plus Next: (experimental) N64 core
+        - Gambatte: Game Boy and Game Boy Color core
+        - mGBA: Game Boy Advance core
 - Sysmodules
-    - [sys-con](https://github.com/cathery/sys-con): support for third-party controllers
     - [sys-ftpd-light](https://github.com/cathery/sys-ftpd-light): lightweight background FTP server for managing files
-    - [emuiibo](https://github.com/XorTroll/emuiibo/): allows emulation of amiibo within games
-    - [ldn-mitm](https://github.com/spacemeowx2/ldn_mitm): ad-hoc local multiplayer titles with switch-lan-play
     - [sys-clk](https://github.com/retronx-team/sys-clk/): allows overclocking
-- [OpenRCT2](): roller coaster tycoon 2, for the Nintendo Switch
-- [Retroarch](https://www.retroarch.com/)
-    - Stella: Atari 2600 core
-    - Prosystem: Atari 7800 core
-    - Nestopia: NES core
-    - SNES9x: SNES core
-    - Mupen64Plus Next: (experimental) N64 core
-    - Gambatte: Game Boy and Game Boy Color core
-    - mGBA: Game Boy Advance core
-- melonDS: DS emulator, sorta
-    - https://github.com/Arisotura/melonDS
-    - https://github.com/Hydr8gon/melonDS
-    - https://github.com/RSDuck/melonDS
+    - [sys-con](https://github.com/cathery/sys-con): support for third-party controllers
+    - [Mission Control](https://github.com/ndeadly/MissionControl): support for third-party Bluetooth controllers
+    - [emuiibo](https://github.com/XorTroll/emuiibo/): allows emulation of amiibo within games
+    - [ldn-mitm](https://github.com/spacemeowx2/ldn_mitm): ad-hoc local multiplayer titles with switch-lan-play [currently broken]
